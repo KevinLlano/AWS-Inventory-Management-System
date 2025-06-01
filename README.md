@@ -11,12 +11,12 @@ This project demonstrates inventory management by filtering for engine parts and
 
 ## Technologies Used
 - Backend: SpringBoot
-- Frontend: React 
+- Frontend: React  https://github.com/KevinLlano/React-Frameworks2.0.git
 - Database: H2 (Embedded) Used for development and testing purposes.
-- Hosting: AWS Services
+- Hosting: AWS Services(EC2, EBS)
 - Version Control: GitHub
 - Backend Components: SpringBootStarterWeb, SpringBootStarterDataJPA, Thymeleaf, SpringBootStarterValidation,
-  SpringBootDevTools,H2 Database, SpringBootStarterTest, JUnit, Lombok, Maven.
+  SpringBootDevTools,H2 Database, PostgreSQL, SpringBootStarterTest, JUnit, Mockito, Lombok, Maven.
 
 
 # Getting Started
@@ -24,9 +24,8 @@ This project demonstrates inventory management by filtering for engine parts and
 ## Prerequisites
 - **JDK 17+**
 - **Maven** (or Gradle)
-- **Node.js & npm**
+- **Node.js & npm** For React Frontend
 
-Here’s your full **README.md** installation and deployment section formatted for copy-paste:
 
 ---
 
@@ -136,12 +135,16 @@ http://my-env-name.elasticbeanstalk.com
 ---
 
 
-## Screenshots 
+## Screenshots (I will upload Jenkins, Terraform, Kubernetes, and Ansible playbook provisioning soon. I have performed Terraform provisioning multiple times across different projects, so I am experienced in this.) 
+![mainscreen](https://github.com/user-attachments/assets/ba0849ff-f853-4cab-84a1-dcdc43043075)
+![Product Detail](https://github.com/user-attachments/assets/92ebf96b-d204-4445-bf7f-0498e15ede9b)
 ![image](https://github.com/user-attachments/assets/00b4818e-7944-49bb-be82-842f1e2c79bd)
 ![image](https://github.com/user-attachments/assets/2a9dc156-8de5-4b4c-bc4c-ba71b0bdd911)
 ![image](https://github.com/user-attachments/assets/f2b30d03-d212-4ed5-bc04-d2a3773cac12)
 ![image](https://github.com/user-attachments/assets/afb2d82b-06ba-4122-91db-b95c4dbf9d27)
 ![image](https://github.com/user-attachments/assets/7fe222b4-7def-4f85-9a32-253017c99754)
+![image](https://github.com/user-attachments/assets/b8d5aa34-86fd-4235-91fd-f5774708d093)
+![UML Diagram](https://github.com/user-attachments/assets/493d6e7d-dc98-4994-a594-c52571df943c)
 
 
 
