@@ -261,12 +261,12 @@ URL: [https://car-parts-inventory-app.elasticbeanstalk.com](https://car-parts-in
 # Screenshots (I will upload Jenkins, Terraform, Kubernetes, and Ansible playbook provisioning soon. I have performed Terraform provisioning multiple times across different projects, so I am experienced in this.) 
 # The pictures here consist of old UI models I previously created for this exact project.
 
+![image](https://github.com/user-attachments/assets/b8d5aa34-86fd-4235-91fd-f5774708d093)
 ![image](https://github.com/user-attachments/assets/00b4818e-7944-49bb-be82-842f1e2c79bd)
 ![image](https://github.com/user-attachments/assets/2a9dc156-8de5-4b4c-bc4c-ba71b0bdd911)
 ![image](https://github.com/user-attachments/assets/f2b30d03-d212-4ed5-bc04-d2a3773cac12)
 ![image](https://github.com/user-attachments/assets/afb2d82b-06ba-4122-91db-b95c4dbf9d27)
 ![image](https://github.com/user-attachments/assets/7fe222b4-7def-4f85-9a32-253017c99754)
-![image](https://github.com/user-attachments/assets/b8d5aa34-86fd-4235-91fd-f5774708d093)
 
 
 
