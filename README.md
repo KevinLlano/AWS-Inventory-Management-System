@@ -1,5 +1,6 @@
 
 # AWS FullStack Inventory Management System
+http://my-ebs-env.eba-pwmcdgmn.us-east-1.elasticbeanstalk.com/mainscreen   EBS HOSTED
 
 ## Overview
 
