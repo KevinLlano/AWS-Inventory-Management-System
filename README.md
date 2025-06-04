@@ -265,7 +265,6 @@ URL: [https://car-parts-inventory-app.elasticbeanstalk.com](https://car-parts-in
 ![S3 Bucket](https://github.com/user-attachments/assets/97a1c567-1873-4097-a3ed-0a5a1108b67c)
 ![EC2 Instance](https://github.com/user-attachments/assets/89dcd08b-688c-4635-8b9d-7365488c9784)
 ![RDS PostgreDB](https://github.com/user-attachments/assets/39972689-b496-4b3b-a002-f06712f665ae)
-![image](https://github.com/user-attachments/assets/b8d5aa34-86fd-4235-91fd-f5774708d093)
 ![image](https://github.com/user-attachments/assets/00b4818e-7944-49bb-be82-842f1e2c79bd)
 ![image](https://github.com/user-attachments/assets/2a9dc156-8de5-4b4c-bc4c-ba71b0bdd911)
 ![image](https://github.com/user-attachments/assets/f2b30d03-d212-4ed5-bc04-d2a3773cac12)
